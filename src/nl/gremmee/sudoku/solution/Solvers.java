@@ -28,8 +28,8 @@ public class Solvers {
         registerSolver(SolverPerColumnSingleNumber.class);
         registerSolver(SolverPerSquare.class);
         registerSolver(SolverPerRowSingleNumber.class);
-        // registerSolver(SolverPerRow.class);
-        // registerSolver(SolverPerColumn.class);
+        registerSolver(SolverPerRow.class);
+        registerSolver(SolverPerColumn.class);
     }
 
     private void registerSolver(Class<? extends ISolver> aClass) {
