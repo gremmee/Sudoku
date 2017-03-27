@@ -1,4 +1,4 @@
 # Sudoku
 Solve sudoku's
 
-![Screenshot](/docu/img/screenshot.jpg "Screenshot")
+![Screenshot](/docu/img/screenshot.JPG "Screenshot")
